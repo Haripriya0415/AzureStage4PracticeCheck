@@ -1,0 +1,7 @@
+C:\Users\2146284\OneDrive - Cognizant\Desktop\AzureAssessment\obj\Debug\net5.0\AzureAssessment.csproj.AssemblyReference.cache
+C:\Users\2146284\OneDrive - Cognizant\Desktop\AzureAssessment\obj\Debug\net5.0\AzureAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2146284\OneDrive - Cognizant\Desktop\AzureAssessment\obj\Debug\net5.0\AzureAssessment.AssemblyInfoInputs.cache
+C:\Users\2146284\OneDrive - Cognizant\Desktop\AzureAssessment\obj\Debug\net5.0\AzureAssessment.AssemblyInfo.cs
+C:\Users\2146284\OneDrive - Cognizant\Desktop\AzureAssessment\obj\Debug\net5.0\AzureAssessment.csproj.CoreCompileInputs.cache
+C:\Users\2146284\OneDrive - Cognizant\Desktop\AzureAssessment\obj\Debug\net5.0\AzureAssessment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2146284\OneDrive - Cognizant\Desktop\AzureAssessment\obj\Debug\net5.0\AzureAssessment.MvcApplicationPartsAssemblyInfo.cache
